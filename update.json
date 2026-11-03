@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "jar": "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-launcher/releases/download/launcher-v1.0.18/YunLanLauncher-1.0.18.jar",
-  "jarsha1": "8c124b2b3b20d5fa75b90c04d854096878ae917b",
-  "notes": "云澜启动器 1.0.18"
+  "version": "1.0.19",
+  "jar": "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-launcher/releases/download/launcher-v1.0.19/YunLanLauncher-1.0.19.jar",
+  "jarsha1": "5e1428c61d149ba6a8177baf274e86cfe5a64eac",
+  "notes": "云澜启动器 1.0.19：整合包清单改为 main 分支，支持 CUNICULUM 2.x"
 }
