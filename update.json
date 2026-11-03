@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "jar": "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-launcher/releases/download/launcher-v1.0.21/YunLanLauncher-1.0.21.jar",
+  "version": "1.0.22",
+  "jar": "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-launcher/releases/download/launcher-v1.0.22/YunLanLauncher-1.0.22.jar",
   "jarsha1": "cdc2e983857721d1070b740bc8fdbb4769b1bbbd",
-  "notes": "云澜启动器 1.0.21：latest.jar 版本门控 + 清单缓存穿透"
+  "notes": "云澜启动器 1.0.22：修复更新后仍运行旧 jar 的设计缺陷"
 }
